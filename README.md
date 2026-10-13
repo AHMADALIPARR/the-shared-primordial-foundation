@@ -12,7 +12,7 @@ Applications change. Frameworks change. Languages change. Foundations endure.
 
 ## Premidoral spine
 
-The 64-layer Prime Number Premidoral functor spine is the Foundation’s multiplicity construction. Prior external attributions were removed. The spine is held by the Bel esprit D’accord Trust, SnapKitty Research Lab. Researchers: Ahmad Ali Parr, Jessica Westerhoff.
+The 64-layer Prime Number Premidoral functor spine is the Foundation’s multiplicity construction. Its results are called theroms, one letter off theorem, so the object is not confused with any external multiplicity theory or with classical named theorems. Prior external attributions were removed. The spine is held by the Bel esprit D’accord Trust, SnapKitty Research Lab. Researchers: Ahmad Ali Parr, Jessica Westerhoff.
 
 A surface reading of multiplicity is a list of prime exponents. The spine makes that list an object with depth. Each integer factors into primes. Each prime carries an exponent. The exponents form a vector. That vector is not a flat record. It is indexed through 64 layers.
 
