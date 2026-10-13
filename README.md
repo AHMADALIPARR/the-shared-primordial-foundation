@@ -111,10 +111,13 @@ The Foundation preserves continuity across the enterprise. Repositories may evol
 
 ## Presence
 
-- Foundation: https://github.com/AHMADALIPARR/the-shared-primordial-foundation
+- Enterprise: https://github.com/enterprises/the-shared-primordial-foundation
+- Public foundation: https://github.com/AHMADALIPARR/the-shared-primordial-foundation
 - Holdings: https://github.com/BEL-ESPRIT-D-ACCORD-TRUST-HOLDINGS
 - Lab: https://github.com/BEL-ESPRIT-D-ACCORD-TRUST-HOLDINGS/surface-code-boundary-lab
 - Atlas: https://ahmadaliparr.github.io/surface-code-boundary-lab/
+
+Three members are seated on the enterprise. The enterprise account is the constitutional seat. This public repository is the open face.
 
 ---
 
