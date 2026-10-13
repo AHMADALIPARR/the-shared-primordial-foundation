@@ -22,6 +22,13 @@ Public research body for the Premidoral spine, formal verification, and sovereig
 
 Hairline triangle. Vertical prime spine. No ornament.
 
+
+## Announcement
+
+**[64-Layer Prime Number Premidoral Functor Spine](https://github.com/AHMADALIPARR/the-shared-primordial-foundation/releases/tag/spine-64)**
+
+The 64-layer Prime Number Premidoral functor spine is the Foundation’s multiplicity construction. Prior external attributions were removed. Lemmas 1–32 set the categorical, topological, quantum, and QMHES base. Lemmas 33–64 are the spine: layer index, holographic boundary at 63.
+
 ## Holdings
 
 | Repository | Role |
